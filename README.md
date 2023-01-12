@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋! I'm Brian, a Software Engineer
+
+```javascript
+const brian = {
+  code: [Javascript, Typescript, Python, HTML, CSS, Java, SQL, PHP],
+  frameworks: [React, React Native, Express.js, Flask, Next.js],
+  tools: [Redux, Git, VSCode, Docker],
+  databases: [MongoDB, PostgreSQL]
+}
+```
+<em><b>Open for collaboration on projects</b> :)</em>
 
 <!--
 **brianMunyao/brianMunyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
