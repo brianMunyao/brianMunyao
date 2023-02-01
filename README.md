@@ -2,7 +2,7 @@
 
 ```javascript
 const brian = {
-  code: [Javascript, Typescript, Python, HTML, CSS, Java, SQL, PHP],
+  languages: [Javascript, Typescript, Python, HTML, CSS, Java, SQL, PHP],
   frameworks: [React, React Native, Express.js, Flask, Next.js],
   tools: [Redux, Git, VSCode, Docker],
   databases: [MongoDB, PostgreSQL]
