@@ -5,7 +5,7 @@ const brian = {
   languages: [Javascript, Typescript, Python, HTML, CSS, Java, SQL, PHP],
   frameworks: [React, React Native, Express.js, Flask, Next.js],
   tools: [Redux, Git, VSCode, Docker],
-  databases: [MongoDB, PostgreSQL]
+  databases: [MongoDB, PostgreSQL, firebase]
 }
 ```
 <em><b>Open for collaboration on projects</b> :)</em>
