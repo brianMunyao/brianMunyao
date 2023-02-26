@@ -1,4 +1,4 @@
-### Hi there 👋! I'm Brian, a Software Engineer
+## Hi there 👋! I'm Brian, a Software Engineer
 
 ```javascript
 const brian = {
