@@ -2,7 +2,7 @@
 
 ```javascript
 const brian = {
-  languages: [Javascript, Typescript, Python, HTML, CSS, Java, SQL, PHP],
+  languages: [Javascript, Typescript, Python, HTML, CSS, Java, SQL, C#],
   frameworks: [React, React Native, Express.js, Flask, Next.js],
   tools: [Redux, Git, VSCode, Docker, Firebase],
   databases: [MongoDB, PostgreSQL]
@@ -11,7 +11,7 @@ const brian = {
 <em><b>Open for collaboration on projects</b> :)</em>
 
 
-Speaking of skills, How good are you with words? Let's find out with [NameGame](https://name-game-five.vercel.app) - it's like Scrabble, but without the board or the tiles! 😂
+Speaking of skills, How good are you with words? Let's find out with [NameGame](https://namegame-five.vercel.app) - it's like Scrabble, but without the board or the tiles! 😂
 
 <!--
 **brianMunyao/brianMunyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
