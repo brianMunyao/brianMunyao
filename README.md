@@ -13,6 +13,8 @@ const brian = {
 
 Speaking of skills, How good are you with words? Let's find out with [NameGame](https://namegame.vercel.app) - it's like Scrabble, but without the board or the tiles! 😂
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianMunyao&layout=compact)](https://github.com/brianMunyao/github-readme-stats) -->
+
 <!--
 **brianMunyao/brianMunyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
