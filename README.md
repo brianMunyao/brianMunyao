@@ -8,10 +8,10 @@ const brian = {
   databases: [MongoDB, PostgreSQL]
 }
 ```
+For a more comprehensive overview of my work, visit my portfolio site [here](https://brianmunyao.github.io/simplefolio).
+
 <em><b>Open for collaboration on projects</b> :)</em>
 
-
-Speaking of skills, How good are you with words? Let's find out with [NameGame](https://namegame.vercel.app) - it's like Scrabble, but without the board or the tiles! 😂
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianMunyao&layout=compact)](https://github.com/brianMunyao/github-readme-stats) -->
 
