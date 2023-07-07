@@ -8,7 +8,7 @@ const brian = {
   databases: [MongoDB, PostgreSQL]
 }
 ```
-For a more comprehensive overview of my work, visit my portfolio site [here](https://brianmunyao.github.io/simplefolio).
+For a more comprehensive overview of my work, visit my portfolio site [here](https://portfolio-brianmunyao.vercel.app/).
 
 <em><b>Open for collaboration on projects</b> :)</em>
 
