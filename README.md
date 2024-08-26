@@ -2,8 +2,8 @@
 
 ```javascript
 const brian = {
-  languages: [Javascript, Typescript, Python, HTML, CSS, Java, SQL, PHP],
-  frameworks: [React, React Native, Node.js, Express.js, Flask, Next.js],
+  languages: [Javascript, Typescript, Python, HTML, CSS, Java, SQL, C#],
+  frameworks: [React.js Next.js, React Native, Node.js, Express.js, Flask],
   tools: [Redux, Git, VSCode, Docker, Firebase],
   databases: [MongoDB, PostgreSQL]
 }
