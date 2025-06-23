@@ -8,7 +8,7 @@ const brian = {
   databases: [MongoDB, PostgreSQL]
 }
 ```
-For a more comprehensive overview of my work, visit my portfolio site [here](https://kalusi-portfolio.vercel.app/).
+For a more comprehensive overview of my work, [visit my portfolio site](https://briankalusi.vercel.app/).
 
 <em><b>Open for collaboration on projects</b> :)</em>
 
